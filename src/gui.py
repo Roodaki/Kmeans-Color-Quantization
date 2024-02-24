@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
-import image_processor
+import image_processor as image_processor
 from kmeans_clustering import KMeansClustering
 
 
